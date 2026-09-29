@@ -4,3 +4,6 @@ c=a+b
 print(c)
 d=5
 print(c+d)
+e=7
+f=c+d+e
+print(f)
